@@ -9,9 +9,10 @@ I'm a passionate and experienced full-stack developer, always eager to take on n
 Here are some of the technologies and tools that I frequently work with:
 
 - **Front-end**: HTML5, CSS3, JavaScript, React.js, Vue.js
-- **Back-end**: Node.js, Express.js, Django, Flask
+- **Back-end**: Node.js, Express.js
+- **Framework**: Laravel, Wordpress
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Languages**: Python, JavaScript, TypeScript
+- **Languages**: Python, JavaScript
 - **Version Control**: Git, GitHub
 
 ### 🌟 Highlights
