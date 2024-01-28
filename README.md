@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wiklapandu2503@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wiklapandu2503@gmail.com)](mailto:wiklapandu2503@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-wiklapandu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiklapandu/)](https://www.linkedin.com/in/wiklapandu/) [![Github Badge](https://img.shields.io/badge/-wiklapandu-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wiklapandu/)](https://www.github.com/wiklapandu/) [![Twitter Badge](https://img.shields.io/badge/-wiklapandu-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/wiklapandu/)](https://www.twitter.com/wiklapandu/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wiklapandu.github.io/portofolio//)](https://wiklapandu.github.io/portofolio//)
 
-I'm a passionate and experienced full-stack developer, always eager to take on new challenges and build innovative solutions. With expertise in both front-end and back-end technologies, I strive to create robust and user-friendly applications.
+I'm a passionate and experienced Backend Developer, always eager to take on new challenges and build innovative solutions. With expertise in both front-end and back-end technologies, I strive to create robust and user-friendly applications.
 
 ### 💻 Technologies and Tools
 
